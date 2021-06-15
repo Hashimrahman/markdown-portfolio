@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+* [GitHub](http://github.com)
+* [My Instagram Profile](https://www.instagram.com/__hashim_.rhmn._/?)
