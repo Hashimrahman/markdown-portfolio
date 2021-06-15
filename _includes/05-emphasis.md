@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Ambition** is the _Path_ to success. **Persistence** is the _vehicle_ you arrive in. 
+                         **_– Bill Bradley_**
