@@ -1,2 +1,2 @@
 * [GitHub](http://github.com)
-* [My Instagram Profile](https://www.instagram.com/__hashim_.rhmn._/?)
+* [Instagram](https://www.instagram.com)
